@@ -10,7 +10,7 @@
 <config>
     <modules>
         <Dataman_Bannerslider>
-            <version>0.1.1</version>
+            <version>0.1.2</version>
         </Dataman_Bannerslider>
     </modules>
     <frontend>

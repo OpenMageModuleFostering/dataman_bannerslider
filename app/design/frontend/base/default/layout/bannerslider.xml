@@ -3,7 +3,7 @@
     <default>
 		<reference name="head">
 			<action method="addCss"><stylesheet>css/bannerslider/css/default.css</stylesheet></action>
-			<action method="addJs"><script>bannerslider/jquery-1.9.1.min.js</script></action>
+			<!--action method="addJs"><script>bannerslider/jquery-1.9.1.min.js</script></action-->
 			<action method="addJs"><script>bannerslider/jssor.js</script></action>
 			<action method="addJs"><script>bannerslider/jssor.slider.js</script></action>
 		</reference>
