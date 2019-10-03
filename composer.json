@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Dataman_Bannerslider",
+    "name": "OpenMageModuleFostering\/Dataman_Bannerslider",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Responsive Banner Slider with multiple styles.",
     "authors": [
-    {
-        "name": "Dataman Computers System(P) Ltd.",
-        "email": "priyankakushwaha@dataman.in"
-    }
-],
+        {
+            "name": "Dataman Computers System(P) Ltd.",
+            "email": "priyankakushwaha@dataman.in"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
