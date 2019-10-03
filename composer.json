@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Dataman_Bannerslider",
+    "name": "openmage-module-fostering\/dataman_bannerslider",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Responsive Banner Slider with multiple styles.",
     "authors": [

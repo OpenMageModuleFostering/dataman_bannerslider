@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Responsive Banner Slider with multiple styles.
